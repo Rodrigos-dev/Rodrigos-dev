@@ -15,7 +15,7 @@ REST API · GraphQL
 
 Mensageria: GCP Pub/Sub, RabbitMQ, Bull + Redis
 
-Integrações: PagSeguro, Mercado Pago, Correios, APIs de mapas, pagamentos e storage
+Integrações: PagSeguro, Mercado Pago, Correios, APIs de mapas e Rotas, pagamentos e storage
 
 
 📱 Frontend / Mobile
