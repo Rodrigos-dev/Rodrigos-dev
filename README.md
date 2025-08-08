@@ -79,7 +79,7 @@ Full Stack Developer Junior/Pleno
 
 Pleno: capaz de entregar projetos completos, integrar diversas tecnologias e lidar com problemas complexos.
 
-Sênior: domínio de múltiplas stacks, visão de arquitetura, experiência em tempo real, nuvem, mobile e automação.
+domínio de múltiplas stacks, visão de arquitetura, experiência em tempo real, nuvem, mobile e automação.
 
 🌍 Contato
 📧 Email: seu.email@exemplo.com
