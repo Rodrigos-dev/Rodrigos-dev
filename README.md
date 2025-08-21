@@ -1,6 +1,6 @@
 💻 Rodrigo Souza
 
-Full Stack Developer Junior/Pleno | Cloud | Mobile | Real-Time Apps
+Full Stack Developer Pleno | Cloud | Mobile | Real-Time Apps
 
 Desenvolvedor full stack com experiência em backend escalável, frontend/mobile multiplataforma e infraestrutura em nuvem, entregando soluções completas desde a concepção até o deploy em produção. Atuo em projetos web, mobile, nuvem e tempo real, com foco em qualidade, performance e experiência do usuário.
 
@@ -75,13 +75,13 @@ JavaScript / TypeScript	C	C#	Python
 
 📊 Nível Profissional
 
-Full Stack Developer Junior/Pleno
+Full Stack Developer Pleno
 
 Pleno: capaz de entregar projetos completos, integrar diversas tecnologias e lidar com problemas complexos.
 
 domínio de múltiplas stacks, visão de arquitetura, experiência em tempo real, nuvem, mobile e automação.
 
 🌍 Contato
-📧 Email: seu.email@exemplo.com
-🔗 GitHub: github.com/seuusuario
-💼 LinkedIn: linkedin.com/in/seuusuario
+📧 Email: rodrigos.ars.dev@gmail.com
+🔗 GitHub: https://github.com/Rodrigos-dev
+💼 LinkedIn: https://www.linkedin.com/in/rodrigos-dev/
